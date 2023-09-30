@@ -37,3 +37,4 @@ By using data-driven insights, shelters can make better decisions about where to
 
 ### Future Work
 In the future, we can expand our project by developing predictive models. These models could help us foresee the number of animals coming into the shelter, making it easier to plan and allocate resources efficiently. Additionally, we can work on models to identify which types of animals are more likely to find loving homes, enabling us to focus our efforts where they're needed most. These steps will further enhance our ability to improve animal welfare and make our shelter operations even more effective.
+
